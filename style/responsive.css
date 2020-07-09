@@ -1,0 +1,121 @@
+@media (max-width: 1920px) {
+    /* BLOCK TITLE */
+    .section-a .title h1 {
+        font-size: 2.1rem;
+    }
+    .section-a .title p {
+        font-size: 1.5rem;
+    }
+    /* BLOCK TEXT */
+    .section-a .text-block {
+        margin-top: 2rem;
+    }
+    /* BLOCK OFFER */
+    .section-a .offer {
+        margin-top: 2rem;
+    }
+    .section-a .offer h2 {
+        font-size: 1.5rem;
+    }
+    /* BLOCK TEL */
+    .section-a .block-tel {
+        margin-top: 2rem;
+    }
+}
+
+@media (max-width: 1480px) {
+    /* BLOCK TITLE */
+    .section-a .title h1 {
+        font-size: 1.6rem;
+    }
+    .section-a .title p {
+        font-size: 1.3rem;
+    }
+    /* BLOCK TEXT */
+    .section-a .text-block {
+        margin-top: 1rem;
+    }
+    /* BLOCK OFFER */
+    .section-a .offer {
+        margin-top: 1rem;
+    }
+    .section-a .offer h2 {
+        font-size: 1.5rem;
+    }
+    /* BLOCK TEL */
+    .section-a .block-tel {
+        margin-top: 1rem;
+    }
+}
+
+/* Large desktops and laptops */
+@media (max-width: 1200px) {
+    /* BLOCK TITLE */
+    .section-a .title h1 {
+        font-size: 1.6rem;
+    }
+    .section-a .title p {
+        font-size: 1.3rem;
+    }
+    /* BLOCK TEXT */
+    .section-a .text-block {
+        margin-top: 1rem;
+    }
+    /* BLOCK OFFER */
+    .section-a .offer {
+        margin-top: 1rem;
+    }
+    .section-a .offer h2 {
+        font-size: 1.5rem;
+    }
+    /* BLOCK TEL */
+    .section-a .block-tel {
+        margin-top: 1rem;
+    }
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+    /* BLOCK TITLE */
+    .section-a .title h1 {
+        font-size: 1.6rem;
+    }
+    .section-a .title p {
+        font-size: 1.3rem;
+    }
+    /* BLOCK TEXT */
+    .section-a .text-block {
+        margin-top: 1rem;
+    }
+    /* BLOCK OFFER */
+    .section-a .offer {
+        margin-top: 1rem;
+    }
+    .section-a .offer h2 {
+        font-size: 1.5rem;
+    }
+    /* BLOCK TEL */
+    .section-a .block-tel {
+        margin-top: 1rem;
+    }
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+
+}
+
+/* Iphone 5 */
+@media (max-width: 320px) {
+
+}
